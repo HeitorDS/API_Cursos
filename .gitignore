@@ -1,0 +1,9 @@
+# .gitignore para o projeto Node.js
+node_modules/
+*.log
+.env # Se você usar arquivos .env para variáveis de ambiente locais
+
+# Arquivos de configuração de IDEs (opcional, mas bom)
+.vscode/
+.idea/
+*.DS_Store
